@@ -25,8 +25,8 @@ A basic LAMP stack environment built using Docker Compose. It consists of the fo
 - Run the `docker-compose up -d`.
 
 ```shell
-git clone https://github.com/thomasnavarro/docker-compose-lamp.git
-cd docker-compose-lamp/
+git clone https://github.com/thomasnavarro/docker-boilerplate.git
+cd docker-boilerplate/
 cp .env.example .env
 // modify .env as needed
 docker-compose up -d
