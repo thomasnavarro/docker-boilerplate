@@ -32,7 +32,7 @@ cp .env.example .env
 docker-compose up -d
 ```
 
-Your LAMP stack is now ready!! You can access it via `http://localhost`.
+Your LAMP stack is now ready!! You can access it via `http://localhost:3000`.
 
 ## Configuration and Usage
 
