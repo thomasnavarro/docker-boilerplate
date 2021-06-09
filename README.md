@@ -30,8 +30,6 @@ cd docker-boilerplate/
 cp .env.example .env
 // modify .env as needed
 docker-compose up -d
-// visit localhost
-http://localhost:3000
 ```
 
 Your LAMP stack is now ready!! You can access it via `http://localhost`.
