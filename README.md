@@ -1,7 +1,5 @@
 # LAMP stack built with Docker Compose
 
-<img src="./header.png">
-
 A basic LAMP stack environment built using Docker Compose. It consists of the following:
 
 - PHP
@@ -33,6 +31,7 @@ cp .env.example .env
 // modify .env as needed
 docker-compose up -d
 // visit localhost
+http://localhost:3000
 ```
 
 Your LAMP stack is now ready!! You can access it via `http://localhost`.

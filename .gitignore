@@ -1,7 +1,0 @@
-.env
-
-/config/*
-/data/*
-/logs/*
-/app/**
-.DS_Store

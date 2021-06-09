@@ -30,6 +30,7 @@ RUN docker-php-ext-install pdo_mysql && \
     docker-php-ext-install pdo_sqlite && \
     docker-php-ext-install mysqli && \
     docker-php-ext-install curl && \
+    docker-php-ext-install opcache && \
     docker-php-ext-install tokenizer && \
     docker-php-ext-install json && \
     docker-php-ext-install zip && \

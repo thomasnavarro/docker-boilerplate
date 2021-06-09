@@ -9,7 +9,6 @@ services:
     restart: 'always'
     ports:
       - '${HOST_UNSECURE_HOST_PORT}:80'
-      - '${HOST_SECURE_HOST_PORT}:443'
     links:
       - database
     volumes:
